@@ -279,7 +279,7 @@ loadAgeBtn.Font = Enum.Font.FredokaOne
 loadAgeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 loadAgeBtn.MouseButton1Click:Connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/munkizzzz/x/refs/heads/main/Egg_RandomizerV2.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-jd/Age50script/refs/heads/main/Level50-pet.lua"))()
 end)
 
 -- 👤 Credit
